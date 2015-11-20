@@ -1,0 +1,42 @@
+[0.0.0.0][2999-12-31 23:59:58]（32503656598）
+LogType : User Login Error
+IP      : 0.0.0.0
+Referer : http://TestReferer
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ctl_tests',
+	'action' => 'action_test',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'Login' => array(
+		'password' => '*****',
+		'login' => '*****'
+	)
+)
+---End---
+
+[0.0.0.0][2999-12-31 23:59:59]（32503656599）
+LogType : User Login Error
+IP      : 0.0.0.0
+Referer : http://TestReferer
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ctl_tests',
+	'action' => 'action_test',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'Login' => array(
+		'password' => '*****',
+		'login' => '*****'
+	)
+)
+---End---
+

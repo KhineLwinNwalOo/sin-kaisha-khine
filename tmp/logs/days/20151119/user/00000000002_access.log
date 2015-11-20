@@ -1,0 +1,5465 @@
+[::1][2015-11-19 15:22:17]（1447923137）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::index();
+Referer : http://newshinkaisha.klno:8888/Mains/login
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:23:16]（1447923196）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::logout();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'logout',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:23:24]（1447923204）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::index();
+Referer : http://newshinkaisha.klno:8888/Mains/login
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:22]（1447923322）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:26]（1447923326）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:27]（1447923327）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:27]（1447923327）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:27]（1447923327）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:27]（1447923327）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:27]（1447923327）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:27]（1447923327）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:27]（1447923327）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:39]（1447923339）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:39]（1447923339）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:39]（1447923339）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:39]（1447923339）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:39]（1447923339）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:39]（1447923339）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:39]（1447923339）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:39]（1447923339）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:40]（1447923340）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:41]（1447923341）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:41]（1447923341）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:41]（1447923341）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:41]（1447923341）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:41]（1447923341）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:41]（1447923341）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:41]（1447923341）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:54]（1447923354）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:54]（1447923354）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:54]（1447923354）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:54]（1447923354）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:54]（1447923354）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:54]（1447923354）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:55]（1447923355）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:55]（1447923355）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:56]（1447923356）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:56]（1447923356）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:56]（1447923356）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:56]（1447923356）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:56]（1447923356）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:56]（1447923356）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:56]（1447923356）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:56]（1447923356）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:57]（1447923357）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:57]（1447923357）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:57]（1447923357）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:57]（1447923357）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:57]（1447923357）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:57]（1447923357）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:57]（1447923357）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:57]（1447923357）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:25:58]（1447923358）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::logout();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'logout',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:26:40]（1447923400）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::index();
+Referer : http://newshinkaisha.klno:8888/Mains/login
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:26:57]（1447923417）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::logout();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'logout',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:33:12]（1447923792）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::index();
+Referer : http://newshinkaisha.klno:8888/Mains/login
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:45:24]（1447924524）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:45:24]（1447924524）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array(),
+	'_Token' => array(
+		'key' => '42a4ed3dc95423aa7eeafa3e32b848056bd38b12',
+		'unlockedFields' => array()
+	),
+	'models' => array(
+		'CategoriesCreate' => array(
+			'plugin' => null,
+			'className' => 'CategoriesCreate'
+		),
+		'TblBigCategory' => array(
+			'plugin' => null,
+			'className' => 'TblBigCategory'
+		),
+		'TblMidCategory' => array(
+			'plugin' => null,
+			'className' => 'TblMidCategory'
+		),
+		'TblMinCategory' => array(
+			'plugin' => null,
+			'className' => 'TblMinCategory'
+		)
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:45:33]（1447924533）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:45:33]（1447924533）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array(),
+	'_Token' => array(
+		'key' => '170a5c6c4f4be8a49e6a24f11629ca8a381a315b',
+		'unlockedFields' => array()
+	),
+	'models' => array(
+		'CategoriesCreate' => array(
+			'plugin' => null,
+			'className' => 'CategoriesCreate'
+		),
+		'TblBigCategory' => array(
+			'plugin' => null,
+			'className' => 'TblBigCategory'
+		),
+		'TblMidCategory' => array(
+			'plugin' => null,
+			'className' => 'TblMidCategory'
+		),
+		'TblMinCategory' => array(
+			'plugin' => null,
+			'className' => 'TblMinCategory'
+		)
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:45:52]（1447924552）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:45:52]（1447924552）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::mid_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'mid_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:45:52]（1447924552）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::min_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'min_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:45:54]（1447924554）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:45:54]（1447924554）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array(),
+	'_Token' => array(
+		'key' => 'a1938cf92a07849b86c7f19e0255382038c4ed93',
+		'unlockedFields' => array()
+	),
+	'models' => array(
+		'CategoriesCreate' => array(
+			'plugin' => null,
+			'className' => 'CategoriesCreate'
+		),
+		'TblBigCategory' => array(
+			'plugin' => null,
+			'className' => 'TblBigCategory'
+		),
+		'TblMidCategory' => array(
+			'plugin' => null,
+			'className' => 'TblMidCategory'
+		),
+		'TblMinCategory' => array(
+			'plugin' => null,
+			'className' => 'TblMinCategory'
+		)
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:46:23]（1447924583）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::logout();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'logout',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:46:31]（1447924591）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::index();
+Referer : http://newshinkaisha.klno:8888/Mains/login
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:46:32]（1447924592）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:46:32]（1447924592）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:46:32]（1447924592）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:46:32]（1447924592）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:46:32]（1447924592）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:46:32]（1447924592）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:46:33]（1447924593）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:46:33]（1447924593）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:48:40]（1447924720）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:48:40]（1447924720）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:48:40]（1447924720）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:48:40]（1447924720）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:48:40]（1447924720）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:48:40]（1447924720）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:48:41]（1447924721）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:48:41]（1447924721）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:02]（1447924742）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:02]（1447924742）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:02]（1447924742）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:02]（1447924742）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:02]（1447924742）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:02]（1447924742）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:02]（1447924742）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:02]（1447924742）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:18]（1447924758）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:18]（1447924758）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:18]（1447924758）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:19]（1447924759）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:19]（1447924759）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:19]（1447924759）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:19]（1447924759）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:19]（1447924759）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:26]（1447924766）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:26]（1447924766）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:26]（1447924766）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:26]（1447924766）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:26]（1447924766）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:26]（1447924766）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:26]（1447924766）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:26]（1447924766）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:46]（1447924786）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:46]（1447924786）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:46]（1447924786）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:46]（1447924786）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:46]（1447924786）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:46]（1447924786）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:46]（1447924786）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:46]（1447924786）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:55]（1447924795）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:55]（1447924795）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:55]（1447924795）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:55]（1447924795）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:55]（1447924795）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:56]（1447924796）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:56]（1447924796）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:49:56]（1447924796）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:08]（1447924808）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:08]（1447924808）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:08]（1447924808）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:08]（1447924808）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:08]（1447924808）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:08]（1447924808）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:08]（1447924808）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:08]（1447924808）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:45]（1447924845）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:45]（1447924845）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:45]（1447924845）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:45]（1447924845）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:45]（1447924845）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:46]（1447924846）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:46]（1447924846）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:50:46]（1447924846）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:04]（1447924864）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:05]（1447924865）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:05]（1447924865）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:05]（1447924865）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:05]（1447924865）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:05]（1447924865）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:05]（1447924865）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:05]（1447924865）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:12]（1447924872）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/Mains
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:13]（1447924873）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:13]（1447924873）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:13]（1447924873）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:13]（1447924873）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:13]（1447924873）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:13]（1447924873）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:51:13]（1447924873）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:56:41]（1447925201）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AAA'
+	)
+)
+---End---
+
+[::1][2015-11-19 15:56:41]（1447925201）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AAA'
+	)
+)
+---End---
+
+[::1][2015-11-19 15:56:45]（1447925205）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AAD'
+	)
+)
+---End---
+
+[::1][2015-11-19 15:56:45]（1447925205）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AAD'
+	)
+)
+---End---
+
+[::1][2015-11-19 15:56:56]（1447925216）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AADE'
+	)
+)
+---End---
+
+[::1][2015-11-19 15:56:56]（1447925216）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AADE'
+	)
+)
+---End---
+
+[::1][2015-11-19 15:57:04]（1447925224）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:57:05]（1447925225）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:57:05]（1447925225）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:57:05]（1447925225）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:57:05]（1447925225）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:57:05]（1447925225）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:57:05]（1447925225）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:57:05]（1447925225）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 15:57:18]（1447925238）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::midcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'midcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '20',
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => 'AAA1',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 15:57:18]（1447925238）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::midcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'midcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '20',
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => 'AAA1',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 15:57:26]（1447925246）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::midcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'midcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '20',
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => 'AAAAAAAA',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 15:57:26]（1447925246）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::midcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'midcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '20',
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => 'AAAAAAAA',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:00:29]（1447925429）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:00:30]（1447925430）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:00:30]（1447925430）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:00:31]（1447925431）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:00:31]（1447925431）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:00:31]（1447925431）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:00:31]（1447925431）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:00:31]（1447925431）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:02:29]（1447925549）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AAA'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:02:30]（1447925550）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AAA'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:02:37]（1447925557）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'dfdfd'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:02:37]（1447925557）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'dfdfd'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:03:51]（1447925631）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:03:51]（1447925631）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:03:51]（1447925631）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:03:51]（1447925631）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:03:51]（1447925631）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:03:52]（1447925632）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:03:52]（1447925632）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:03:52]（1447925632）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:03:55]（1447925635）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AAA'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:03:56]（1447925636）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::insert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'insert',
+	'named' => array(),
+	'pass' => array(),
+	'_Token' => array(
+		'key' => '4ce211490eb0daf9d207f20d4b0125f4899bd33f',
+		'unlockedFields' => array()
+	),
+	'models' => array(
+		'BigCategoryCreate' => array(
+			'plugin' => null,
+			'className' => 'BigCategoryCreate'
+		),
+		'TblBigCategory' => array(
+			'plugin' => null,
+			'className' => 'TblBigCategory'
+		)
+	)
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AAA'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:04:01]（1447925641）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'ASS'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:04:01]（1447925641）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '',
+	'big_id_1' => '',
+	'mid_id' => '',
+	'big_id_2' => '',
+	'min_id' => '',
+	'_Token' => array(
+		'key' => 'ef885d59814bfc337e5f4019d5ff349adeffc8ff',
+		'fields' => 'f68bba8e0a0fad11ebd695992d9435273c34f468%3A',
+		'unlocked' => ''
+	),
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'ASS'
+	),
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => '',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	),
+	'MinCategoryCreate' => array(
+		'smallcategory_name_1' => '',
+		'smallcategory_name_2' => '',
+		'smallcategory_name_3' => ''
+	),
+	'ContentsCreate' => array(
+		'contents_name_1' => '',
+		'contents_name_2' => '',
+		'contents_name_3' => '',
+		'contents_name_4' => '',
+		'contents_name_5' => '',
+		'contents_name_6' => '',
+		'contents_name_7' => '',
+		'contents_name_8' => '',
+		'contents_name_9' => '',
+		'contents_name_10' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:04:01]（1447925641）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '',
+	'big_id_1' => '',
+	'mid_id' => '',
+	'big_id_2' => '',
+	'min_id' => '',
+	'_Token' => array(
+		'key' => 'ef885d59814bfc337e5f4019d5ff349adeffc8ff',
+		'fields' => 'f68bba8e0a0fad11ebd695992d9435273c34f468%3A',
+		'unlocked' => ''
+	),
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'ASS'
+	),
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => '',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	),
+	'MinCategoryCreate' => array(
+		'smallcategory_name_1' => '',
+		'smallcategory_name_2' => '',
+		'smallcategory_name_3' => ''
+	),
+	'ContentsCreate' => array(
+		'contents_name_1' => '',
+		'contents_name_2' => '',
+		'contents_name_3' => '',
+		'contents_name_4' => '',
+		'contents_name_5' => '',
+		'contents_name_6' => '',
+		'contents_name_7' => '',
+		'contents_name_8' => '',
+		'contents_name_9' => '',
+		'contents_name_10' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:05:08]（1447925708）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:08]（1447925708）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:08]（1447925708）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:08]（1447925708）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:08]（1447925708）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:08]（1447925708）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:08]（1447925708）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:08]（1447925708）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:43]（1447925743）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AAA'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:05:44]（1447925744）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::insert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'insert',
+	'named' => array(),
+	'pass' => array(),
+	'_Token' => array(
+		'key' => '049d83740c93f295b25222d41e337fb4023ec71a',
+		'unlockedFields' => array()
+	),
+	'models' => array(
+		'BigCategoryCreate' => array(
+			'plugin' => null,
+			'className' => 'BigCategoryCreate'
+		),
+		'TblBigCategory' => array(
+			'plugin' => null,
+			'className' => 'TblBigCategory'
+		)
+	)
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'AAA'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:05:48]（1447925748）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'DDD'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:05:48]（1447925748）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::insert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'insert',
+	'named' => array(),
+	'pass' => array(),
+	'_Token' => array(
+		'key' => '4508f0cca7fb92a4b7f50d61500d643c13e71893',
+		'unlockedFields' => array()
+	),
+	'models' => array(
+		'BigCategoryCreate' => array(
+			'plugin' => null,
+			'className' => 'BigCategoryCreate'
+		),
+		'TblBigCategory' => array(
+			'plugin' => null,
+			'className' => 'TblBigCategory'
+		)
+	)
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'DDD'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:05:53]（1447925753）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::bigcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'bigcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'ASEFR'
+	)
+)
+---End---
+
+[::1][2015-11-19 16:05:54]（1447925754）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '',
+	'big_id_1' => '',
+	'mid_id' => '',
+	'big_id_2' => '',
+	'min_id' => '',
+	'_Token' => array(
+		'key' => '44e5cfcafcbf3d5c81d8ff12a127a7212191ccaf',
+		'fields' => 'f68bba8e0a0fad11ebd695992d9435273c34f468%3A',
+		'unlocked' => ''
+	),
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => 'ASEFR'
+	),
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => '',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	),
+	'MinCategoryCreate' => array(
+		'smallcategory_name_1' => '',
+		'smallcategory_name_2' => '',
+		'smallcategory_name_3' => ''
+	),
+	'ContentsCreate' => array(
+		'contents_name_1' => '',
+		'contents_name_2' => '',
+		'contents_name_3' => '',
+		'contents_name_4' => '',
+		'contents_name_5' => '',
+		'contents_name_6' => '',
+		'contents_name_7' => '',
+		'contents_name_8' => '',
+		'contents_name_9' => '',
+		'contents_name_10' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:05:54]（1447925754）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:54]（1447925754）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:54]（1447925754）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:54]（1447925754）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:54]（1447925754）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:54]（1447925754）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:05:54]（1447925754）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:06]（1447925766）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::midcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'midcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '20',
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => 'AA3',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:07]（1447925767）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '20',
+	'big_id_1' => '',
+	'mid_id' => '',
+	'big_id_2' => '',
+	'min_id' => '',
+	'_Token' => array(
+		'key' => '664cb694f7359d8f43e72d6d287ed9fc4297216a',
+		'fields' => 'f68bba8e0a0fad11ebd695992d9435273c34f468%3A',
+		'unlocked' => ''
+	),
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => ''
+	),
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => 'AA3',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	),
+	'MinCategoryCreate' => array(
+		'smallcategory_name_1' => '',
+		'smallcategory_name_2' => '',
+		'smallcategory_name_3' => ''
+	),
+	'ContentsCreate' => array(
+		'contents_name_1' => '',
+		'contents_name_2' => '',
+		'contents_name_3' => '',
+		'contents_name_4' => '',
+		'contents_name_5' => '',
+		'contents_name_6' => '',
+		'contents_name_7' => '',
+		'contents_name_8' => '',
+		'contents_name_9' => '',
+		'contents_name_10' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:07]（1447925767）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:07]（1447925767）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:07]（1447925767）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:07]（1447925767）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:07]（1447925767）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:07]（1447925767）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:07]（1447925767）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:10]（1447925770）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::mid_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'mid_category',
+	'named' => array(),
+	'pass' => array(
+		(int) 0 => '20'
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:12]（1447925772）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::min_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'min_category',
+	'named' => array(),
+	'pass' => array(
+		(int) 0 => '91'
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:15]（1447925775）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::mid_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'mid_category',
+	'named' => array(),
+	'pass' => array(
+		(int) 0 => '20'
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:20]（1447925780）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::mincategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'mincategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id_1' => '20',
+	'mid_id' => '91',
+	'MinCategoryCreate' => array(
+		'smallcategory_name_1' => 'AA1',
+		'smallcategory_name_2' => '',
+		'smallcategory_name_3' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:20]（1447925780）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '',
+	'big_id_1' => '20',
+	'mid_id' => '91',
+	'big_id_2' => '20',
+	'min_id' => '',
+	'_Token' => array(
+		'key' => '3a8cf7f072918ada385f6c815fe9ddc6ad00a40f',
+		'fields' => 'f68bba8e0a0fad11ebd695992d9435273c34f468%3A',
+		'unlocked' => ''
+	),
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => ''
+	),
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => '',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	),
+	'MinCategoryCreate' => array(
+		'smallcategory_name_1' => 'AA1',
+		'smallcategory_name_2' => '',
+		'smallcategory_name_3' => ''
+	),
+	'ContentsCreate' => array(
+		'contents_name_1' => '',
+		'contents_name_2' => '',
+		'contents_name_3' => '',
+		'contents_name_4' => '',
+		'contents_name_5' => '',
+		'contents_name_6' => '',
+		'contents_name_7' => '',
+		'contents_name_8' => '',
+		'contents_name_9' => '',
+		'contents_name_10' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:20]（1447925780）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:20]（1447925780）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:20]（1447925780）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:20]（1447925780）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:20]（1447925780）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:21]（1447925781）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:21]（1447925781）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:23]（1447925783）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::mid_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'mid_category',
+	'named' => array(),
+	'pass' => array(
+		(int) 0 => '20'
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:25]（1447925785）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::min_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'min_category',
+	'named' => array(),
+	'pass' => array(
+		(int) 0 => '91'
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:30]（1447925790）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::contentcategoryinsert();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'contentcategoryinsert',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id_2' => '20',
+	'mid_id' => '91',
+	'min_id' => '375',
+	'ContentsCreate' => array(
+		'contents_name_1' => 'AA2',
+		'contents_name_2' => '',
+		'contents_name_3' => '',
+		'contents_name_4' => '',
+		'contents_name_5' => '',
+		'contents_name_6' => '',
+		'contents_name_7' => '',
+		'contents_name_8' => '',
+		'contents_name_9' => '',
+		'contents_name_10' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:30]（1447925790）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'big_id' => '',
+	'big_id_1' => '',
+	'mid_id' => '91',
+	'big_id_2' => '20',
+	'min_id' => '375',
+	'_Token' => array(
+		'key' => 'b575e35cea37aca2cc6148cc60e47a46cdff9638',
+		'fields' => 'f68bba8e0a0fad11ebd695992d9435273c34f468%3A',
+		'unlocked' => ''
+	),
+	'BigCategoryCreate' => array(
+		'bigcategory_name' => ''
+	),
+	'MidCategoryCreate' => array(
+		'middlecategory_name_1' => '',
+		'middlecategory_name_2' => '',
+		'middlecategory_name_3' => ''
+	),
+	'MinCategoryCreate' => array(
+		'smallcategory_name_1' => '',
+		'smallcategory_name_2' => '',
+		'smallcategory_name_3' => ''
+	),
+	'ContentsCreate' => array(
+		'contents_name_1' => 'AA2',
+		'contents_name_2' => '',
+		'contents_name_3' => '',
+		'contents_name_4' => '',
+		'contents_name_5' => '',
+		'contents_name_6' => '',
+		'contents_name_7' => '',
+		'contents_name_8' => '',
+		'contents_name_9' => '',
+		'contents_name_10' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:30]（1447925790）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:30]（1447925790）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:30]（1447925790）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:30]（1447925790）
+LogType : User Access
+UserId  : 00000000002
+Access  : ContentsCreatesController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ContentsCreates',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:30]（1447925790）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:30]（1447925790）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:31]（1447925791）
+LogType : User Access
+UserId  : 00000000002
+Access  : BigCategoryCreatesController::big_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'BigCategoryCreates',
+	'action' => 'big_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:37]（1447925797）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesCreates
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:37]（1447925797）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::min_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'min_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:37]（1447925797）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::mid_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'mid_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:40]（1447925800）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::mid_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'mid_category',
+	'named' => array(),
+	'pass' => array(
+		(int) 0 => '20'
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:06:41]（1447925801）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'_Token' => array(
+		'key' => 'bbd05a30b592af0654a11cdd1ed0e2343d05391c',
+		'fields' => '429d02df43d1c5e5eb697a4d8ec90ade5a801ce6%3A',
+		'unlocked' => ''
+	),
+	'CategoriesSearch' => array(
+		'big_id' => '20',
+		'mid_id' => '',
+		'min_id' => '',
+		'content' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:41]（1447925801）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'_Token' => array(
+		'key' => 'bbd05a30b592af0654a11cdd1ed0e2343d05391c',
+		'fields' => '429d02df43d1c5e5eb697a4d8ec90ade5a801ce6%3A',
+		'unlocked' => ''
+	),
+	'CategoriesSearch' => array(
+		'big_id' => '20',
+		'mid_id' => '',
+		'min_id' => '',
+		'content' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:51]（1447925811）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'_Token' => array(
+		'key' => 'bbd05a30b592af0654a11cdd1ed0e2343d05391c',
+		'fields' => '429d02df43d1c5e5eb697a4d8ec90ade5a801ce6%3A',
+		'unlocked' => ''
+	),
+	'CategoriesSearch' => array(
+		'big_id' => '20',
+		'mid_id' => '',
+		'min_id' => '',
+		'content' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:51]（1447925811）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'_Token' => array(
+		'key' => 'bbd05a30b592af0654a11cdd1ed0e2343d05391c',
+		'fields' => '429d02df43d1c5e5eb697a4d8ec90ade5a801ce6%3A',
+		'unlocked' => ''
+	),
+	'CategoriesSearch' => array(
+		'big_id' => '20',
+		'mid_id' => '',
+		'min_id' => '',
+		'content' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:55]（1447925815）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'_Token' => array(
+		'key' => 'bbd05a30b592af0654a11cdd1ed0e2343d05391c',
+		'fields' => '429d02df43d1c5e5eb697a4d8ec90ade5a801ce6%3A',
+		'unlocked' => ''
+	),
+	'CategoriesSearch' => array(
+		'big_id' => '20',
+		'mid_id' => '',
+		'min_id' => '',
+		'content' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:06:55]（1447925815）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'_Token' => array(
+		'key' => 'bbd05a30b592af0654a11cdd1ed0e2343d05391c',
+		'fields' => '429d02df43d1c5e5eb697a4d8ec90ade5a801ce6%3A',
+		'unlocked' => ''
+	),
+	'CategoriesSearch' => array(
+		'big_id' => '20',
+		'mid_id' => '',
+		'min_id' => '',
+		'content' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:07:15]（1447925835）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:07:16]（1447925836）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::min_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'min_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:07:16]（1447925836）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::mid_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'mid_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:07:17]（1447925837）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::mid_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'mid_category',
+	'named' => array(),
+	'pass' => array(
+		(int) 0 => '20'
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:07:17]（1447925837）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'_Token' => array(
+		'key' => 'b51857796d1fc1de8a86bb5f68c84bfac19353a0',
+		'fields' => '429d02df43d1c5e5eb697a4d8ec90ade5a801ce6%3A',
+		'unlocked' => ''
+	),
+	'CategoriesSearch' => array(
+		'big_id' => '20',
+		'mid_id' => '',
+		'min_id' => '',
+		'content' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:07:18]（1447925838）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::mid_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'mid_category',
+	'named' => array(),
+	'pass' => array(
+		(int) 0 => '20'
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:07:18]（1447925838）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::min_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'min_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:25:47]（1447926947）
+LogType : User Access
+UserId  : 00000000002
+Access  : CategoriesSearchsController::index();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : POST
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'CategoriesSearchs',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'_Token' => array(
+		'key' => '78bdf416386ec5d7a665446d81b5e8485c462315',
+		'fields' => '429d02df43d1c5e5eb697a4d8ec90ade5a801ce6%3A',
+		'unlocked' => ''
+	),
+	'CategoriesSearch' => array(
+		'big_id' => '20',
+		'mid_id' => '',
+		'min_id' => '',
+		'content' => ''
+	)
+)
+---End---
+
+[::1][2015-11-19 16:25:48]（1447926948）
+LogType : User Access
+UserId  : 00000000002
+Access  : MidCategoryCreatesController::mid_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MidCategoryCreates',
+	'action' => 'mid_category',
+	'named' => array(),
+	'pass' => array(
+		(int) 0 => '20'
+	)
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:25:48]（1447926948）
+LogType : User Access
+UserId  : 00000000002
+Access  : MinCategoryCreatesController::min_category();
+Referer : http://newshinkaisha.klno:8888/CategoriesSearchs
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'MinCategoryCreates',
+	'action' => 'min_category',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+
+[::1][2015-11-19 16:26:11]（1447926971）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::index();
+Referer : /
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+

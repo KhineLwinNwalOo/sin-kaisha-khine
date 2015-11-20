@@ -1,0 +1,345 @@
+[0.0.0.0][2999-12-31 23:59:58]（32503656598）
+LogType : Mial Send Error
+UserId  : 99999999999
+--- From ---
+array(
+	'TestFrom1' => 'from1@test.test',
+	'TestFrom2' => 'from2@test.test',
+	'TestFrom3' => 'from3@test.test'
+)
+--- To ---
+array(
+	'TestTo1' => 'to1@test.test',
+	'TestTo2' => 'to2@test.test',
+	'TestTo3' => 'to3@test.test'
+)
+--- Cc ---
+array(
+	'TestCc1' => 'cc1@test.test',
+	'TestCc2' => 'cc2@test.test',
+	'TestCc3' => 'cc3@test.test'
+)
+--- Bcc ---
+array(
+	'TestBcc1' => 'bcc1@test.test',
+	'TestBcc2' => 'bcc2@test.test',
+	'TestBcc3' => 'bcc3@test.test'
+)
+Subject : 'Test Subject'
+--- Message ---
+'Test Message1
+Test Message2
+Test Message3
+Test Message4
+Test Message5
+Test Message6'
+--- Config ---
+array(
+	'password' => '*****',
+	'host' => '*****',
+	'port' => '*****',
+	'transport' => 'Smtp',
+	'from' => array(
+		'site@localhost' => 'My Site'
+	),
+	'timeout' => (int) 30,
+	'username' => 'user'
+)
+--- End ---
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+  ◆     ◆   ◆◆◆      ◆     ◆             ◆◆◆◆◆   ◆◆◆◆◆◆◆  ◆     ◆  ◆◆◆◆◆    
+  ◆◆   ◆◆    ◆      ◆ ◆    ◆            ◆     ◆  ◆        ◆◆    ◆  ◆    ◆   
+  ◆◆   ◆◆    ◆      ◆ ◆    ◆            ◆◆       ◆        ◆ ◆   ◆  ◆     ◆  
+  ◆ ◆ ◆ ◆    ◆     ◆   ◆   ◆              ◆◆◆    ◆◆◆◆◆◆◆  ◆  ◆  ◆  ◆     ◆  
+  ◆ ◆ ◆ ◆    ◆     ◆◆◆◆◆   ◆                 ◆◆  ◆        ◆   ◆ ◆  ◆     ◆  
+  ◆  ◆  ◆    ◆    ◆     ◆  ◆            ◆     ◆  ◆        ◆    ◆◆  ◆    ◆   
+  ◆  ◆  ◆   ◆◆◆   ◆     ◆  ◆◆◆◆◆◆◆       ◆◆◆◆◆   ◆◆◆◆◆◆◆  ◆     ◆  ◆◆◆◆◆    
+----------------------------------------------------------------------------
+-----------------------------------------------
+  ◆◆◆◆◆◆◆  ◆◆◆◆◆◆   ◆◆◆◆◆◆    ◆◆◆◆◆   ◆◆◆◆◆◆   
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆◆◆◆◆◆◆  ◆◆◆◆◆◆   ◆◆◆◆◆◆   ◆     ◆  ◆◆◆◆◆◆   
+  ◆        ◆    ◆   ◆    ◆   ◆     ◆  ◆    ◆   
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆◆◆◆◆◆◆  ◆     ◆  ◆     ◆   ◆◆◆◆◆   ◆     ◆  
+-----------------------------------------------
+-----------------------------------------------
+
+[0.0.0.0][2999-12-31 23:59:59]（32503656599）
+LogType : Mial Send Error
+UserId  : 99999999999
+--- From ---
+array(
+	'TestFrom1' => 'from1@test.test',
+	'TestFrom2' => 'from2@test.test',
+	'TestFrom3' => 'from3@test.test'
+)
+--- To ---
+array(
+	'TestTo1' => 'to1@test.test',
+	'TestTo2' => 'to2@test.test',
+	'TestTo3' => 'to3@test.test'
+)
+--- Cc ---
+array(
+	'TestCc1' => 'cc1@test.test',
+	'TestCc2' => 'cc2@test.test',
+	'TestCc3' => 'cc3@test.test'
+)
+--- Bcc ---
+array(
+	'TestBcc1' => 'bcc1@test.test',
+	'TestBcc2' => 'bcc2@test.test',
+	'TestBcc3' => 'bcc3@test.test'
+)
+Subject : 'Test Subject'
+--- Message ---
+'Test Message1
+Test Message2
+Test Message3
+Test Message4
+Test Message5
+Test Message6'
+--- Config ---
+array(
+	'password' => '*****',
+	'host' => '*****',
+	'port' => '*****',
+	'transport' => 'Smtp',
+	'from' => array(
+		'site@localhost' => 'My Site'
+	),
+	'timeout' => (int) 30,
+	'username' => 'user'
+)
+--- End ---
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+  ◆     ◆   ◆◆◆      ◆     ◆             ◆◆◆◆◆   ◆◆◆◆◆◆◆  ◆     ◆  ◆◆◆◆◆    
+  ◆◆   ◆◆    ◆      ◆ ◆    ◆            ◆     ◆  ◆        ◆◆    ◆  ◆    ◆   
+  ◆◆   ◆◆    ◆      ◆ ◆    ◆            ◆◆       ◆        ◆ ◆   ◆  ◆     ◆  
+  ◆ ◆ ◆ ◆    ◆     ◆   ◆   ◆              ◆◆◆    ◆◆◆◆◆◆◆  ◆  ◆  ◆  ◆     ◆  
+  ◆ ◆ ◆ ◆    ◆     ◆◆◆◆◆   ◆                 ◆◆  ◆        ◆   ◆ ◆  ◆     ◆  
+  ◆  ◆  ◆    ◆    ◆     ◆  ◆            ◆     ◆  ◆        ◆    ◆◆  ◆    ◆   
+  ◆  ◆  ◆   ◆◆◆   ◆     ◆  ◆◆◆◆◆◆◆       ◆◆◆◆◆   ◆◆◆◆◆◆◆  ◆     ◆  ◆◆◆◆◆    
+----------------------------------------------------------------------------
+-----------------------------------------------
+  ◆◆◆◆◆◆◆  ◆◆◆◆◆◆   ◆◆◆◆◆◆    ◆◆◆◆◆   ◆◆◆◆◆◆   
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆◆◆◆◆◆◆  ◆◆◆◆◆◆   ◆◆◆◆◆◆   ◆     ◆  ◆◆◆◆◆◆   
+  ◆        ◆    ◆   ◆    ◆   ◆     ◆  ◆    ◆   
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆◆◆◆◆◆◆  ◆     ◆  ◆     ◆   ◆◆◆◆◆   ◆     ◆  
+-----------------------------------------------
+-----------------------------------------------
+
+[0.0.0.0][2999-12-31 23:59:59]（32503656599）
+LogType : Mial Send Error
+UserId  : 99999999999
+--- From ---
+array(
+	'TestFrom1' => 'from1@test.test',
+	'TestFrom2' => 'from2@test.test',
+	'TestFrom3' => 'from3@test.test'
+)
+--- To ---
+array(
+	'TestTo1' => 'to1@test.test',
+	'TestTo2' => 'to2@test.test',
+	'TestTo3' => 'to3@test.test'
+)
+--- Cc ---
+array(
+	'TestCc1' => 'cc1@test.test',
+	'TestCc2' => 'cc2@test.test',
+	'TestCc3' => 'cc3@test.test'
+)
+--- Bcc ---
+array(
+	'TestBcc1' => 'bcc1@test.test',
+	'TestBcc2' => 'bcc2@test.test',
+	'TestBcc3' => 'bcc3@test.test'
+)
+Subject : 'Test Subject'
+--- Message ---
+'Test Message1
+Test Message2
+Test Message3
+Test Message4
+Test Message5
+Test Message6'
+--- Config ---
+array(
+	'password' => '*****',
+	'host' => '*****',
+	'port' => '*****',
+	'transport' => 'Smtp',
+	'from' => array(
+		'site@localhost' => 'My Site'
+	),
+	'timeout' => (int) 30,
+	'username' => 'user'
+)
+--- End ---
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+  ◆     ◆   ◆◆◆      ◆     ◆             ◆◆◆◆◆   ◆◆◆◆◆◆◆  ◆     ◆  ◆◆◆◆◆    
+  ◆◆   ◆◆    ◆      ◆ ◆    ◆            ◆     ◆  ◆        ◆◆    ◆  ◆    ◆   
+  ◆◆   ◆◆    ◆      ◆ ◆    ◆            ◆◆       ◆        ◆ ◆   ◆  ◆     ◆  
+  ◆ ◆ ◆ ◆    ◆     ◆   ◆   ◆              ◆◆◆    ◆◆◆◆◆◆◆  ◆  ◆  ◆  ◆     ◆  
+  ◆ ◆ ◆ ◆    ◆     ◆◆◆◆◆   ◆                 ◆◆  ◆        ◆   ◆ ◆  ◆     ◆  
+  ◆  ◆  ◆    ◆    ◆     ◆  ◆            ◆     ◆  ◆        ◆    ◆◆  ◆    ◆   
+  ◆  ◆  ◆   ◆◆◆   ◆     ◆  ◆◆◆◆◆◆◆       ◆◆◆◆◆   ◆◆◆◆◆◆◆  ◆     ◆  ◆◆◆◆◆    
+----------------------------------------------------------------------------
+-----------------------------------------------
+  ◆◆◆◆◆◆◆  ◆◆◆◆◆◆   ◆◆◆◆◆◆    ◆◆◆◆◆   ◆◆◆◆◆◆   
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆◆◆◆◆◆◆  ◆◆◆◆◆◆   ◆◆◆◆◆◆   ◆     ◆  ◆◆◆◆◆◆   
+  ◆        ◆    ◆   ◆    ◆   ◆     ◆  ◆    ◆   
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆◆◆◆◆◆◆  ◆     ◆  ◆     ◆   ◆◆◆◆◆   ◆     ◆  
+-----------------------------------------------
+-----------------------------------------------
+
+[0.0.0.0][2999-12-31 23:59:58]（32503656598）
+LogType : Mial Send Error
+UserId  : 99999999999
+--- From ---
+array(
+	'TestFrom1' => 'from1@test.test',
+	'TestFrom2' => 'from2@test.test',
+	'TestFrom3' => 'from3@test.test'
+)
+--- To ---
+array(
+	'TestTo1' => 'to1@test.test',
+	'TestTo2' => 'to2@test.test',
+	'TestTo3' => 'to3@test.test'
+)
+--- Cc ---
+array(
+	'TestCc1' => 'cc1@test.test',
+	'TestCc2' => 'cc2@test.test',
+	'TestCc3' => 'cc3@test.test'
+)
+--- Bcc ---
+array(
+	'TestBcc1' => 'bcc1@test.test',
+	'TestBcc2' => 'bcc2@test.test',
+	'TestBcc3' => 'bcc3@test.test'
+)
+Subject : 'Test Subject'
+--- Message ---
+'Test Message1
+Test Message2
+Test Message3
+Test Message4
+Test Message5
+Test Message6'
+--- Config ---
+array(
+	'password' => '*****',
+	'host' => '*****',
+	'port' => '*****',
+	'transport' => 'Smtp',
+	'from' => array(
+		'site@localhost' => 'My Site'
+	),
+	'timeout' => (int) 30,
+	'username' => 'user'
+)
+--- End ---
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+  ◆     ◆   ◆◆◆      ◆     ◆             ◆◆◆◆◆   ◆◆◆◆◆◆◆  ◆     ◆  ◆◆◆◆◆    
+  ◆◆   ◆◆    ◆      ◆ ◆    ◆            ◆     ◆  ◆        ◆◆    ◆  ◆    ◆   
+  ◆◆   ◆◆    ◆      ◆ ◆    ◆            ◆◆       ◆        ◆ ◆   ◆  ◆     ◆  
+  ◆ ◆ ◆ ◆    ◆     ◆   ◆   ◆              ◆◆◆    ◆◆◆◆◆◆◆  ◆  ◆  ◆  ◆     ◆  
+  ◆ ◆ ◆ ◆    ◆     ◆◆◆◆◆   ◆                 ◆◆  ◆        ◆   ◆ ◆  ◆     ◆  
+  ◆  ◆  ◆    ◆    ◆     ◆  ◆            ◆     ◆  ◆        ◆    ◆◆  ◆    ◆   
+  ◆  ◆  ◆   ◆◆◆   ◆     ◆  ◆◆◆◆◆◆◆       ◆◆◆◆◆   ◆◆◆◆◆◆◆  ◆     ◆  ◆◆◆◆◆    
+----------------------------------------------------------------------------
+-----------------------------------------------
+  ◆◆◆◆◆◆◆  ◆◆◆◆◆◆   ◆◆◆◆◆◆    ◆◆◆◆◆   ◆◆◆◆◆◆   
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆◆◆◆◆◆◆  ◆◆◆◆◆◆   ◆◆◆◆◆◆   ◆     ◆  ◆◆◆◆◆◆   
+  ◆        ◆    ◆   ◆    ◆   ◆     ◆  ◆    ◆   
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆◆◆◆◆◆◆  ◆     ◆  ◆     ◆   ◆◆◆◆◆   ◆     ◆  
+-----------------------------------------------
+-----------------------------------------------
+
+[0.0.0.0][2999-12-31 23:59:59]（32503656599）
+LogType : Mial Send Error
+UserId  : 99999999999
+--- From ---
+array(
+	'TestFrom1' => 'from1@test.test',
+	'TestFrom2' => 'from2@test.test',
+	'TestFrom3' => 'from3@test.test'
+)
+--- To ---
+array(
+	'TestTo1' => 'to1@test.test',
+	'TestTo2' => 'to2@test.test',
+	'TestTo3' => 'to3@test.test'
+)
+--- Cc ---
+array(
+	'TestCc1' => 'cc1@test.test',
+	'TestCc2' => 'cc2@test.test',
+	'TestCc3' => 'cc3@test.test'
+)
+--- Bcc ---
+array(
+	'TestBcc1' => 'bcc1@test.test',
+	'TestBcc2' => 'bcc2@test.test',
+	'TestBcc3' => 'bcc3@test.test'
+)
+Subject : 'Test Subject'
+--- Message ---
+'Test Message1
+Test Message2
+Test Message3
+Test Message4
+Test Message5
+Test Message6'
+--- Config ---
+array(
+	'password' => '*****',
+	'host' => '*****',
+	'port' => '*****',
+	'transport' => 'Smtp',
+	'from' => array(
+		'site@localhost' => 'My Site'
+	),
+	'timeout' => (int) 30,
+	'username' => 'user'
+)
+--- End ---
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+  ◆     ◆   ◆◆◆      ◆     ◆             ◆◆◆◆◆   ◆◆◆◆◆◆◆  ◆     ◆  ◆◆◆◆◆    
+  ◆◆   ◆◆    ◆      ◆ ◆    ◆            ◆     ◆  ◆        ◆◆    ◆  ◆    ◆   
+  ◆◆   ◆◆    ◆      ◆ ◆    ◆            ◆◆       ◆        ◆ ◆   ◆  ◆     ◆  
+  ◆ ◆ ◆ ◆    ◆     ◆   ◆   ◆              ◆◆◆    ◆◆◆◆◆◆◆  ◆  ◆  ◆  ◆     ◆  
+  ◆ ◆ ◆ ◆    ◆     ◆◆◆◆◆   ◆                 ◆◆  ◆        ◆   ◆ ◆  ◆     ◆  
+  ◆  ◆  ◆    ◆    ◆     ◆  ◆            ◆     ◆  ◆        ◆    ◆◆  ◆    ◆   
+  ◆  ◆  ◆   ◆◆◆   ◆     ◆  ◆◆◆◆◆◆◆       ◆◆◆◆◆   ◆◆◆◆◆◆◆  ◆     ◆  ◆◆◆◆◆    
+----------------------------------------------------------------------------
+-----------------------------------------------
+  ◆◆◆◆◆◆◆  ◆◆◆◆◆◆   ◆◆◆◆◆◆    ◆◆◆◆◆   ◆◆◆◆◆◆   
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆◆◆◆◆◆◆  ◆◆◆◆◆◆   ◆◆◆◆◆◆   ◆     ◆  ◆◆◆◆◆◆   
+  ◆        ◆    ◆   ◆    ◆   ◆     ◆  ◆    ◆   
+  ◆        ◆     ◆  ◆     ◆  ◆     ◆  ◆     ◆  
+  ◆◆◆◆◆◆◆  ◆     ◆  ◆     ◆   ◆◆◆◆◆   ◆     ◆  
+-----------------------------------------------
+-----------------------------------------------
+

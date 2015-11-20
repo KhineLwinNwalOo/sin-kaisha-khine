@@ -1,0 +1,18 @@
+[::1][2015-11-20 08:25:24]（1447984524）
+LogType : User Access
+UserId  : 00000000002
+Access  : MainsController::index();
+Referer : http://newshinkaisha.klno:8888/Mains/login
+Medhod  : GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'Mains',
+	'action' => 'index',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array()
+---End---
+

@@ -1,0 +1,46 @@
+[0.0.0.0][2999-12-31 23:59:58]（32503656598）
+UserId  :99999999999
+Access  :CtlTestsController::action_test();
+Referer :http://TestReferer
+Medhod  :GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ctl_tests',
+	'action' => 'action_test',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'Test' => array(
+		'key01' => 'value01',
+		'key02' => 'value02',
+		'key03' => 'value03'
+	)
+)
+---End---
+
+[0.0.0.0][2999-12-31 23:59:59]（32503656599）
+UserId  :99999999999
+Access  :CtlTestsController::action_test();
+Referer :http://TestReferer
+Medhod  :GET
+---Params---
+array(
+	'plugin' => null,
+	'controller' => 'ctl_tests',
+	'action' => 'action_test',
+	'named' => array(),
+	'pass' => array()
+)
+---Data---
+array(
+	'Test' => array(
+		'key01' => 'value01',
+		'key02' => 'value02',
+		'key03' => 'value03'
+	)
+)
+---End---
+
